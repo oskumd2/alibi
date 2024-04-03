@@ -32,6 +32,10 @@ explanation methods for classification and regression models.
 
 Interpreting medical image data with Alibi: Using Counterfactual RL in Kaggle Diabetic Retinopathy Dataset.
 
+Revised the code at the link below from Tensorflow version to Pytorch version (+ additional revision w/r/t MNISTEncoder, MNISTDecoder so that AE applies to RGB image)
+*  [Original Code Link]((https://docs.seldon.io/projects/alibi/en/stable/examples/cfrl_mnist.html))
+
+Run "xai.ipynb" file for model training. 
 
 ## Citations
 
